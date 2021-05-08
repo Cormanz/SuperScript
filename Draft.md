@@ -4,6 +4,10 @@ A language similar to TypeScript/JavaScript that transpiles to it
 
 ## Features
 
+#### Implicit Async
+
+
+
 #### :async
 
 ```ts

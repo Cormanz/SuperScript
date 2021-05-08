@@ -1,0 +1,24 @@
+{
+  "name": "superscript",
+  "version": "0.0.1",
+  "description": "Super!",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node .",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cormanz/SuperScript.git"
+  },
+  "keywords": [
+    "SuperScript"
+  ],
+  "author": "Corman and Stonygeist",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Cormanz/SuperScript/issues"
+  },
+  "homepage": "https://github.com/Cormanz/SuperScript#readme"
+}
