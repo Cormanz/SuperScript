@@ -13,7 +13,7 @@ A language similar to TypeScript/JavaScript that transpiles to it
 ```ts
 setTimeout(:async, time)
 //Transpiles to
-new Promise(( resolve, reject ) => {
+new Promise((resolve, reject) => {
   setTimeout((err, data) => {
     if (err) {
 	  reject(err);
