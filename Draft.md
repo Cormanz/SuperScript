@@ -64,7 +64,7 @@ for (const i of range(10)) {
 }
 
 const arr = mapDouble.call(
-	[ 1, 2, 3 ].map(_ -> _ + 3)
+	[ 1, 2, 3 ].map(_ => _ + 3)
 )
 
 const x = [ 1, 2, 3 ];
